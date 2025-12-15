@@ -186,6 +186,6 @@ Each insert function creates **only one directional link**, giving complete cont
 - Weight/cost properties on connections
 
 ## About
-This project was created as part of the Tuwaiq Academy Software Development Bootcamp to demonstrate understanding of data structures, specifically linked structures and graph representations. 
+This project was created as part of the Tuwaiq Academy Software Development Bootcamp to demonstrate understanding of data structures, specifically linked structures and graph representations.
 
-The implementation showcases manual graph construction, bidirectional linking, and CRUD operations on a non-trivial data structure using object-oriented programming principles in C#.
+The code was AI-generated as a learning tool. The primary objective was to study and understand the code structure, analyze the implementation of custom linked data structures, comprehend graph theory concepts and bidirectional linking, and gain the ability to modify and enhance the grid functionality independently through hands-on practice.
